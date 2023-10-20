@@ -5,21 +5,25 @@
 
 ## Projects:
 
-## [Distributed John Conway's Game of Life](https://github.com/evlutz/Operating-Systems/tree/main/Distributed_Game_of_Life)
+## [Stack_Data_Structure](https://github.com/evlutz/Operating-Systems/tree/main/Server%20Request%20Handler)
 
-- `Synchronization` through `message passing`
-- Optimized preformance with `multi-threading`
-- Implemented `semaphores` for shared data `critical reigons`
+- Uses a `stack structure` to store and reverse the order of strings or characters.
+- Modular code by separating the stack structure and reversal functionality into separate modules `stack.c`, `stacktest.c`, and `stacktest2.c
+- Uses `doxygen` comments and headers to make the code more readable and maintainable.
+- Uses appropriate data types and error checking to prevent errors.
 
-![Alt Text](GithubGif.gif)
+
+## [String_Manipulation](https://github.com/evlutz/Systems-Programming/tree/main/String_Manipulation)
+
+- Uses `modular programming` to separate the string manipulation functions into a separate module `mystring.c`.
+- Uses `doxygen` comments and headers to make the code more readable and maintainable.
+- Uses appropriate data types and error checking to prevent errors.
+- Ustilizes `structs` to create a database of of `student structs`.
 
 
-## [Multiserver](https://github.com/evlutz/Operating-Systems/tree/main/Server%20Request%20Handler)
+## [Array_Sort](https://github.com/evlutz/Systems-Programming/tree/main/Array_Sort)
 
-- `Serial and Multi-Threaded` architecture available
-- Replicates a server which all thread at some point havee to access the critical reigon
-- Implements `mutual exclusion` in the critical reigon
-- Utilizes `iNode` information but also checks specifically for text files
-
-![Alt Text](SRHRun.png)
+- Utilizes `modular programming` to create `reusable code` to sort arrays of integers and floats, includes `bubble sort`.
+- Modular programming to separate the array manipulation functionality into separate modules `array_sort.c` and `print_arrays.c`.
+- Uses `doxygen` comments and headers to make the code more readable and maintainable.
 
