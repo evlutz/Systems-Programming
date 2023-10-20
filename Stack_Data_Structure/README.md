@@ -29,18 +29,18 @@
 **Example:**
 		
 **Input:**	`./stacktest 5`
-			This is a line
-			This is the second line
-			third line
-			fourth
-			Fifth and final line
+<br>			This is a line 
+<br>			This is the second line
+<br>			third line
+<br>			fourth
+<br>			Fifth and final line
 			
 **Output:**
-			Fifth and final line
-			fourth
-			third line
-			This is the second line
-			This is a line
+<br>			Fifth and final line
+<br>			fourth
+<br>			third line
+<br>			This is the second line
+<br>			This is a line
 			
 			
 
