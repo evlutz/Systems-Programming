@@ -77,17 +77,17 @@
 **Example:**	
 		
 *Input:*	`./stacktest2 4`
-			This is a line
-			This is the second line
-			third line
-			fourth
-			Fifth and final line
+<br>			This is a line
+<br>			This is the second line
+<br>			third line
+<br>			fourth
+<br>			Fifth and final line
 			
 *Output:*
-			enil a si sihT
-			enil dnoces eht si sihT
-			enil driht
-			htruof
+<br>			enil a si sihT
+<br>			enil dnoces eht si sihT
+<br>			enil driht
+<br>			htruof
 			
 			
 
@@ -109,6 +109,7 @@
 **Example:**	
 		
 *Input:*	`./stacktest 5 | ./stacktest2 5`
+
 			This is a line
 			This is the second line
 			third line
@@ -116,6 +117,7 @@
 			Fifth and final line
 			
 *Output:*
+
 			enil lanif dna htfiF
 			htruof
 			enil driht
@@ -127,6 +129,7 @@
 				
 				
 *Input:*	`./stacktest2 5 | ./stacktest 5`
+
 			This is a line
 			This is the second line
 			third line
@@ -134,6 +137,7 @@
 			Fifth and final line
 			
 *Output:*
+
 			enil lanif dna htfiF
 			htruof
 			enil driht
