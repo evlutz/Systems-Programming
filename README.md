@@ -1,7 +1,7 @@
 # Systems-Programming
  Including dynamic memory allocation, piping custom, CSV parser, 
 
-### Contains programs written in C and C++ to be run on Ubuntu <br> All projects in this repo were build on *Ubuntu 22.04.01* <br> Projects in this repository focus on different aspect of coding and project management on Ubuntu: `header files`, `abstracts`, `malloc`, `calloc`  `parsing`, `array manipulation`, `pointers`, `modular file design`, and `stack`
+### Contains programs written in C and C++ to be run on Ubuntu <br> All projects in this repo were build on *Ubuntu 22.04.01* <br> Projects in this repository focus on different aspect of coding and project management on Ubuntu: `header files`, `abstracts`, `malloc`, `calloc`  `parsing`, `array manipulation`, `pointers`, `modular file design`, `sorting techniques` and `stack`
 
 ## Projects:
 
