@@ -1,6 +1,7 @@
-### stacktest:
+## stacktest:
 
 **Description:** 	
+
 			Stacktest reverses the order of the given strings from the order they were given, utilizing a stack structure.
 
 			Program takes in 1 argument for maximum amount of items,
@@ -44,7 +45,7 @@
 			
 			
 
-### stacktest2:
+## stacktest2:
 
 **Description:** 	
 			stacktest2 reverses the order of characters in the given strings from the order
@@ -77,21 +78,23 @@
 **Example:**	
 		
 *Input:*	`./stacktest2 4`
-<br>			This is a line
-<br>			This is the second line
-<br>			third line
-<br>			fourth
-<br>			Fifth and final line
+
+			This is a line
+			This is the second line
+			third line
+			fourth
+			Fifth and final line
 			
 *Output:*
-<br>			enil a si sihT
-<br>			enil dnoces eht si sihT
-<br>			enil driht
-<br>			htruof
+
+			enil a si sihT
+			enil dnoces eht si sihT
+			enil driht
+			htruof
 			
 			
 
-### Piping stacktest and stacktest2:
+## Piping stacktest and stacktest2:
 
 			
 	
