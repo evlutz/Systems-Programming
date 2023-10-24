@@ -5,7 +5,7 @@
 
 ## Projects:
 
-## [Stack_Data_Structure](https://github.com/evlutz/Operating-Systems/tree/main/Server%20Request%20Handler)
+## [Stack_Data_Structure](https://github.com/evlutz/Systems-Programming/tree/main/Stack_Data_Structure)
 
 - Uses a `stack structure` to store and reverse the order of strings or characters.
 - Modular code by separating the stack structure and reversal functionality into separate modules `stack.c`, `stacktest.c`, and `stacktest2.c
